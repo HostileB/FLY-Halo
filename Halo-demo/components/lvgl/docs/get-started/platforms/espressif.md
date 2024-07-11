@@ -45,7 +45,7 @@ During next project build, LVGL component will be fetched from the component reg
 
 ### Configuration
 
-When you are ready to configure LVGL, launch the configuration menu with `idf.py menuconfig` in your project root directory, go to `Component config` and then `LVGL configuration`.
+When you are ready to configure LVGL, launch the configuration menu with `` in your project root directory, go to `Component config` and then `LVGL configuration`.
 
 ## Using lvgl_esp32_drivers in ESP-IDF project
 

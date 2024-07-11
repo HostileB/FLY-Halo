@@ -56,7 +56,7 @@ void app_main(void)
 
     /*初始化wifi并连接wifi*/
     /*
-    idf.py menuconfig => “Halo Demo Configuration”
+     => “Halo Demo Configuration”
     or
     #define WIFI_SSID "ssid"
     #define WIFI_PASS "password"

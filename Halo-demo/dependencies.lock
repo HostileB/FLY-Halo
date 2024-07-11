@@ -1,15 +1,15 @@
 dependencies:
-  espressif/esp_lcd_touch:
-    component_hash: 847284c65f8d5aaa9a801f5b3d3dac0ba0a5a2dc1bb68890989e84dd9c4a9d53
+  esp_lcd_touch:
+    component_hash: null
     source:
-      service_url: https://api.components.espressif.com/
-      type: service
+      path: /Users/brettlevy/Downloads/halo/FLY-Halo/Halo-demo/components/esp_lcd_touch
+      type: local
     version: 1.0.4
   idf:
     component_hash: null
     source:
       type: idf
-    version: 5.1.0
-manifest_hash: eced9573889de83f0a471fbe0b65b0e9b75e04478191ecd97bb118fe40daf7e9
-target: esp32s3
+    version: 5.2.1
+manifest_hash: 60f7ba079e52bd7f48fedf35e6bc084d4b959a8ee1f9ca935aec9894cd255001
+target: esp32
 version: 1.0.0
